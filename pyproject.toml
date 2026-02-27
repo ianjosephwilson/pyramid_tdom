@@ -13,6 +13,12 @@ authors = [
 readme="README.rst"
 license="MIT"
 
+[project.optional-dependencies]
+dev = [
+    "twine", # Check RST
+]
+
+
 [build-system]
 requires = ["hatchling", "versioningit"]
 build-backend = "hatchling.build"
