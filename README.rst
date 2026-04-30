@@ -1,7 +1,7 @@
 pyramid_tdom
 ~~~~~~~~~~~~
 
-This is a simple implementation of a `Pyramid` `IRenderer` which renders "TDOM Compatible" Template objects with the `tdom` library.
+This is a simple implementation of a `Pyramid` `IRendererFactory` which renders "TDOM Compatible" Template objects with the `tdom` library.
 
 Usage
 =====
